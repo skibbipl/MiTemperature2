@@ -25,7 +25,7 @@ install via
 
 Additional requirements if you want to use the atc version. If you don't use ATC version, please ignore this section.
 ```
-apt install bluetooth libbluetooth-dev
+apt install bluetooth libbluetooth-dev python3-dev
 pip3 install pybluez
 ```
 
